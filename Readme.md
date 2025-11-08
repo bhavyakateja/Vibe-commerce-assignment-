@@ -78,19 +78,19 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/bhavyakateja/vibe-commerce-cart.git
+git clone https://github.com/bhavyakateja/vibe-commerce-assignment-.git
 cd vibe-commerce-cart
 ```
 
 2. **Install Backend Dependencies**
 ```bash
-cd backend
+cd server
 npm install
 ```
 
 3. **Install Frontend Dependencies**
 ```bash
-cd ../frontend
+cd ../client
 npm install
 ```
 
