@@ -234,6 +234,10 @@ vibe-commerce-cart/
 - [x] Database persistence (MongoDB)
 - [x] External API integration (DummyJSON - 194 products)
 
+## 🎬 Live Demo
+👉 [Watch Full Demo on YouTube](https://youtu.be/WemXHkc40QA?si=FfDCe9knuvg0VyW5)
+
+
 ## 🔮 Future Enhancements
 
 - [ ] User authentication & authorization
@@ -246,7 +250,7 @@ vibe-commerce-cart/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Bhavya Kateja**
 - GitHub: [@bhavyakateja](https://github.com/bhavyakateja)
 
 ## 🙏 Acknowledgments
